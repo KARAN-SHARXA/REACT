@@ -8,6 +8,9 @@ import Hook from './assets/componenet/Hook'
 import Card from './assets/componenet/Card'
 import Button1 from './assets/componenet/Button1'
 import Coditionrendring from './assets/componenet/Coditionrendring'
+import Handling from './assets/componenet/Handling'
+
+
 
 function App() {
 
@@ -37,6 +40,8 @@ function App() {
       </Button1>
 
       <Coditionrendring></Coditionrendring>
+      <Handling></Handling>
+    
       
     </div>
   )
